@@ -4,3 +4,5 @@ Music should be more readable and easy to figure out for beginners.
 But it isn't.
 Welcome to Nouvo.
 Let's fix this Together.
+
+[Learn Nouvo](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo)
