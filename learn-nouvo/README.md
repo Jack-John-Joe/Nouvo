@@ -1,7 +1,15 @@
-# Nouvo
-Nouvo is a simplification on how music is written. Music should be more readable and easy to figure out for beginners. But it isn't. Welcome to Nouvo. Let's fix this Together.
-
+# Learning
 Learning Nouvo isn't very complicated. I'll guide you through.
+
+[Trumpet](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/trumpet.md)
+[Clarinet](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/clarinet.md)
+[Flute](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/flute.md)
+[Ukelele](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/ukulele.md)
+[Piano](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/piano.md)
+[Trombone](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/trombone.md)
+[Saxophone](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/saxophone.md)
+
+
 
 
 
