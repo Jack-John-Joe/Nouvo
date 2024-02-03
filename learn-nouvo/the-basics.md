@@ -1,6 +1,6 @@
 # Basics to Nouvo.
 Nouvo is based on a staff with letters, just like the normal musical system.
-Except, this one is easier to read. Here's the staff. [Staff](https://github.com/Jack-John-Joe/Nouvo/assets/131839749/ef006d66-0c8c-4fa8-b5af-2f61bfea4664)
+Except, this one is easier to read. Here's the staff. https://github.com/Jack-John-Joe/Nouvo/assets/131839749/ef006d66-0c8c-4fa8-b5af-2f61bfea4664
 Seems complicated, right?
 Nope!
 It's even numbered! The 1st gap between the lines is A, and so on from A to E!
