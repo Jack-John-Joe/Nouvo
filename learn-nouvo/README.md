@@ -1,7 +1,7 @@
 # Learning
 Learning Nouvo isn't very complicated. I'll guide you through.
 
-[Trumpet](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/trumpet.md)
+[Trumpet](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/trumpet.m)
 [Clarinet](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/clarinet.md)
 [Flute](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/flute.md)
 [Ukelele](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo/ukulele.md)
