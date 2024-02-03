@@ -4,7 +4,7 @@ Except, this one is easier to read. Here's the staff. https://github.com/Jack-Jo
 Seems complicated, right?
 Nope!
 It's even numbered! The 1st gap between the lines is A, and so on from A to E!
-[Staff with Letters](https://github.com/Jack-John-Joe/Nouvo/assets/131839749/5378e2f0-b062-419a-b8f9-cb88f1b47424)
+https://github.com/Jack-John-Joe/Nouvo/assets/131839749/5378e2f0-b062-419a-b8f9-cb88f1b47424
 A is the highest pitch, while E is the lowest.
 What about in-between?
 Just add an F on the end! AF is the same as in-between A and B! Simple, right?
