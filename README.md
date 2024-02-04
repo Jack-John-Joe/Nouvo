@@ -6,3 +6,9 @@ Welcome to Nouvo.
 Let's fix this Together.
 
 [Learn Nouvo](https://Jack-John-Joe.github.io/Nouvo/learn-nouvo)
+
+[Comprehensive Guide](/help/complete.md)
+​
+[Composition Tips](/help/comptips.md)
+ 
+[Notation Cheat Sheet](/help/cheatsheet.md)
